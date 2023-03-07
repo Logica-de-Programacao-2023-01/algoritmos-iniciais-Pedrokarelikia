@@ -1,0 +1,4 @@
+1 leia x=2
+2 leia y=4
+3 Soma x+y
+4 Resolva x+y
