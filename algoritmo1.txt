@@ -1,0 +1,4 @@
+1 leia X 
+2 ler Y
+3 Soma X+Y
+4 Resolva
